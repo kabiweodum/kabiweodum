@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kabiweodum
 - 👀 I’m interested in Data analysis and Cyber security
-- 🌱 I’m currently learning ....python and cloud security
+- 🌱 I’m currently learning ....python,cyber security and data analysis
 - 💞️ I’m looking to collaborate on ...python and data analytics projects
 - 📫 How to reach me ...kabiweodum1@gmail.com,https://www.linkedin.com/in/kabiwe-odum-27b631137/
 
